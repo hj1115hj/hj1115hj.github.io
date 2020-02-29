@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl:
-url: "https://devYurim.github.io"
+url: "https://hj1115hj.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -21,14 +21,14 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address: "soaka94@naver.com" # Full email address, e.g. "sam@example.com"
+  email_address: "hyejin_one@naver.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "devYurim"
+  github: "hj1115hj"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -44,7 +44,7 @@ theme_settings:
 
   # Scripts
   google_analytics: UA-111748939-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: devYurim
+  disqus_shortname: hyejin
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
